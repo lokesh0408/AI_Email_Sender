@@ -1,4 +1,4 @@
-# AI Email Generator – Full Stack App using OpenAI & NodeMailer
+## AI Email Generator – Full Stack App using OpenAI & NodeMailer
 ### This is a full-stack AI-powered email sender app built with React, Node.js, OpenAI API, and NodeMailer. The user provides recipients and a prompt, and the app generates a professional email using OpenAI and sends it via Gmail.
 
 ## Tech Stack
